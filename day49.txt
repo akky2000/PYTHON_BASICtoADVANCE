@@ -1,0 +1,5 @@
+yahhhhoooooooooooo.....hellow ,welcome in day49 
+today we learn about file handling in python 
+read mode='r'
+write mode='w' 
+append mode='a' This will add this line..example of appenedThis will add this line..example of appenedThis will add this line..example of appened
